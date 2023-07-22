@@ -24,7 +24,7 @@
 
 ## Description
 
-https://winnux82.github.io/cv/
+https://winnux82.github.io/cv2022/
 
 | :-: | :-: | :-: | :-: |
 
